@@ -1,0 +1,7 @@
+spring:
+  application:
+      name: DBSApplication
+      
+server:
+  port: 6060
+          
